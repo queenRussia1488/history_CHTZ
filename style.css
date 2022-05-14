@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+h2 {
+    text-align: center;
+    background-color: cadetblue;
+}
+header {
+    background-color: #00CC00;
+}
+
+.kartinka {
+    height: 300px;
+    width: 50;
+}
+.wy {
+    height: 300px;
+    width: 60;
+}
+footer {
+    background-color:chartreuse;
+    margin: 10px;
+    padding: 10px;
+    border: 10px solid blueviolet
+
+}
+.ddd {
+    background-color: #BF9C30;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    position: fixed;
+    top: 30px;
+    right: 0px;
+}
+.ddd:hover {
+    box-shadow: 5px 5px black;
+}
